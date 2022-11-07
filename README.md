@@ -5,8 +5,9 @@ To access all of the files I recommend clone this repo it locally.
 
 The other option is to click the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
 
-Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html
-Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
+- Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html
+- Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
+
 Objective
 
 Upon initial inspection of the data, we can start thinking of some questions about it that we would want to answer.
